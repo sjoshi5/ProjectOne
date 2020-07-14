@@ -31,14 +31,14 @@ client_secret=client_secret,
 redirect_uri=redirect_uri)
 
 import requests
-def get_id(track_name: str,artist_name: str, token: str) -> str:
+def get_id(track_name: str, token: str) -> str:
     headers = {
     'Accept': 'application/json',
     'Content-Type': 'application/json',
     'Authorization': f'Bearer ' + token,
     }
     params = [
-    ('q', track_name,artist_name),
+    ('q', track_name),
     ('type', 'track'),
     ]
     try:
