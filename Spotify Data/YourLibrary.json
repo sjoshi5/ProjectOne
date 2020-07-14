@@ -1,0 +1,996 @@
+{
+  "tracks": [
+    {
+      "artist": "Mascarenhano",
+      "album": "Relaxamento",
+      "track": "Meditação"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Victim of Love - 2013 Remaster"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Get Over It - 2013 Remaster"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Lie To Me"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Desperado - 2013 Remaster"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Heartache Tonight - 2013 Remaster"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Take It Easy - 2013 Remaster"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Why Won’t You Love Me"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Talk Fast"
+    },
+    {
+      "artist": "Sunlounger",
+      "album": "Sunny Tales",
+      "track": "One More Day - Chill Version"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "James Dean - 2013 Remaster"
+    },
+    {
+      "artist": "Major Lazer",
+      "album": "Reggae Gold 2010",
+      "track": "Major Lazer feat. Mr. Lex & Santigold"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "The Best of My Love - 2013 Remaster"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "The Five of Us Are Dying - Rough Mix"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Famous Last Words"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Daylight - Live In Manchester"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "I Don't Love You"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "V",
+      "track": "Animals"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Tequila Sunrise - 2013 Remaster"
+    },
+    {
+      "artist": "Lata Mangeshkar",
+      "album": "Krazy Kishore",
+      "track": "Tum Aa Gaye Ho Noor Aa Gaya (From \"Aandhi\")"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Party at the End of the World - Live Demo"
+    },
+    {
+      "artist": "Miranda Moniz",
+      "album": "Relaxamento",
+      "track": "Fantasia Suave"
+    },
+    {
+      "artist": "Creed Bratton",
+      "album": "Coarsegold",
+      "track": "All The Faces"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "If Walls Could Talk"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Ek Ladki Bheegi Bhagi Si (From \"Chalti Ka Naam Gaadi\")"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Are Jane Kaise Kab Kahan Iqrar (From \"Shakti\")"
+    },
+    {
+      "artist": "Funky Notes",
+      "album": "Fave Thing",
+      "track": "Fave Thing"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "House of Wolves"
+    },
+    {
+      "artist": "Tristão T",
+      "album": "Relaxamento",
+      "track": "Yoga do Sono Macio"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Hotel California - 2013 Remaster"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Mere Sapnon Ki Rani (From \"Aradhana\")"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Ghost Of You"
+    },
+    {
+      "artist": "Future",
+      "album": "FUTURE",
+      "track": "Mask Off"
+    },
+    {
+      "artist": "Fall Out Boy",
+      "album": "American Beauty/American Psycho",
+      "track": "Fourth Of July"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Better Man"
+    },
+    {
+      "artist": "Tristão T",
+      "album": "Relaxamento",
+      "track": "Sonhos"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Hole in the World - 2013 Remaster"
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "AM",
+      "track": "Do I Wanna Know?"
+    },
+    {
+      "artist": "Jonas Brothers",
+      "album": "What A Man Gotta Do",
+      "track": "What A Man Gotta Do"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Girls Like You"
+    },
+    {
+      "artist": "Little Mix",
+      "album": "Glory Days: The Platinum Edition",
+      "track": "No More Sad Songs (feat. Machine Gun Kelly)"
+    },
+    {
+      "artist": ".ihaveaface",
+      "album": "Vibes from Another Universe",
+      "track": "Vibes from Another Universe"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "All the Angels - Live Demo"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Apni To Jaise Taise (From \"Laawaris\")"
+    },
+    {
+      "artist": "All Time Low",
+      "album": "Last Young Renegade",
+      "track": "Last Young Renegade"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "On the Border - 2013 Remaster"
+    },
+    {
+      "artist": "Daddy Yankee",
+      "album": "Dura",
+      "track": "Dura"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Take It to the Limit - 2013 Remaster"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Mama"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Already Gone - 2013 Remaster"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Wasted Time - 2013 Remaster"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Aate Jate Khoobsurat Awara (From \"Anurodh\")"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Youngblood"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Goom Hai Kisi Ke Pyar Mein (From \"Raampur Ka Lakshman\")"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "House of Wolves - Version 1; Live Demo"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Want You Back"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Don't Wanna Know (feat. Kendrick Lamar)"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Bachna Ae Hasinon Lo Main Aa Gaya (From \"Hum Kisise Kum Naheen\")"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Ham The Woh Thi (From \"Chalti Ka Naam Gaadi\")"
+    },
+    {
+      "artist": "Mumford & Sons",
+      "album": "Babel",
+      "track": "I Will Wait"
+    },
+    {
+      "artist": "Black Veil Brides",
+      "album": "Wretched and Divine: The Story Of The Wild Ones",
+      "track": "In The End"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Cancer"
+    },
+    {
+      "artist": "Shankar-Ehsaan-Loy",
+      "album": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
+      "track": "Kuch To Hua Hai"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "House of Wolves - Version 2; Live Demo"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Cold (feat. Future)"
+    },
+    {
+      "artist": "Mascarenhano",
+      "album": "Relaxamento",
+      "track": "Relaxamento"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "V",
+      "track": "Sugar"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "My Way Home Is Through You - Live Demo"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "O Mere Dil Ke Chain (From \"Mere Jeevan Saathi\")"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Seven Bridges Road - Live; 2013 Remaster"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Who I Am (feat. LunchMoney Lewis)"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Moving Along"
+    },
+    {
+      "artist": "Josiah and the Bonnevilles",
+      "album": "Appalachia",
+      "track": "Appalachia"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "The Last Resort - 2013 Remaster"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Valentine"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Native",
+      "track": "Counting Stars"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Aap Ki Ankhon Mein Kuch (From \"Ghar\")"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Yeh Sham Mastani (From \"Kati Patang\")"
+    },
+    {
+      "artist": "Black Veil Brides",
+      "album": "Set The World On Fire",
+      "track": "Ritual"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Sleep"
+    },
+    {
+      "artist": "Vance Joy",
+      "album": "Live at Red Rocks Amphitheatre",
+      "track": "Riptide - Live at Red Rocks Amphitheatre"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Overexposed Track By Track",
+      "track": "Love Somebody"
+    },
+    {
+      "artist": "Neil Sedaka",
+      "album": "The Very Best Of Neil Sedaka",
+      "track": "Calendar Girl - Remastered"
+    },
+    {
+      "artist": "Billy Currington",
+      "album": "Summer Forever",
+      "track": "Do I Make You Wanna"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Help Me Out (with Julia Michaels)"
+    },
+    {
+      "artist": "Mascarenhano",
+      "album": "Relaxamento",
+      "track": "Consciência de Relaxamento"
+    },
+    {
+      "artist": "Kumar Gandharva",
+      "album": "Naman Natawara-Vol-2 Natya Sanget",
+      "track": "Rinanubandhachya"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Lyin' Eyes - 2013 Remaster"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Midnight Flyer - 2013 Remaster"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "V",
+      "track": "Maps"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Meet You There"
+    },
+    {
+      "artist": "Charlie Puth",
+      "album": "Voicenotes",
+      "track": "Attention"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Pyar Diwana Hota Hai (From \"Kati Patang\")"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Love Will Keep Us Alive - 2013 Remaster"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Denim Jacket"
+    },
+    {
+      "artist": "Miranda Moniz",
+      "album": "Relaxamento",
+      "track": "Relaxar"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Not That Kind of Girl - Live Demo"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Monster Among Men"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Plastic Rose"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Those Shoes - 2013 Remaster"
+    },
+    {
+      "artist": "DNCE",
+      "album": "DNCE",
+      "track": "Truthfully"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "What Lovers Do (feat. SZA)"
+    },
+    {
+      "artist": "Cheat Codes",
+      "album": "Only You (with Little Mix)",
+      "track": "Only You (with Little Mix)"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Best 4 U"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "This Love - Live In Manchester"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Dooriyan Nazdikiyan Ban Gayi (From \"Duniya\")"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Animals - Live In Manchester"
+    },
+    {
+      "artist": "Queen",
+      "album": "Hot Space",
+      "track": "Under Pressure - Remastered"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Bet My Heart"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "This Is How I Disappear"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "The Long Run - 2013 Remaster"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Ol' 55 - 2013 Remaster"
+    },
+    {
+      "artist": "Eric Johnson",
+      "album": "Ah Via Musicom",
+      "track": "Cliffs Of Dover - Instrumental"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "O Meri Sharmilee (From \"Sharmilee\")"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Stereo Hearts - Live In Manchester"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "After the Thrill Is Gone - 2013 Remaster"
+    },
+    {
+      "artist": "Mumford & Sons",
+      "album": "Sigh No More",
+      "track": "Little Lion Man"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "track": "Blinding Lights"
+    },
+    {
+      "artist": "Tristão T",
+      "album": "Relaxamento",
+      "track": "Relaxamento do Sono"
+    },
+    {
+      "artist": "Lata Mangeshkar",
+      "album": "Krazy Kishore",
+      "track": "Bheegi Bheegi Raaton Mein (From \"Ajanabee\")"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Disenchanted"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Teenagers"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Please Come Home for Christmas - 2013 Remaster"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Overexposed",
+      "track": "Daylight"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Aaj Rapat Jaayen To (From \"Namak Halaal\")"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Overexposed Track By Track",
+      "track": "Payphone"
+    },
+    {
+      "artist": "Luke Combs",
+      "album": "This One's for You Too (Deluxe Edition)",
+      "track": "Beautiful Crazy"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "One of These Nights - 2013 Remaster"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Mere Mehboob Qayamat Hogi, Pt. 1 (From \"Mr. X in Bombay\")"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Life in the Fast Lane - 2013 Remaster"
+    },
+    {
+      "artist": "John Denver",
+      "album": "The Essential John Denver",
+      "track": "Take Me Home, Country Roads"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Closure"
+    },
+    {
+      "artist": "Vance Joy",
+      "album": "Live at Red Rocks Amphitheatre",
+      "track": "Georgia - Live at Red Rocks Amphitheatre"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "V",
+      "track": "Leaving California"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Waking Up",
+      "track": "Secrets"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "In the City - 2013 Remaster"
+    },
+    {
+      "artist": "Miranda Moniz",
+      "album": "Relaxamento",
+      "track": "Vá Devagar"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "More"
+    },
+    {
+      "artist": "Lord Huron",
+      "album": "Strange Trails",
+      "track": "The Night We Met"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Welcome to the Black Parade"
+    },
+    {
+      "artist": "Hélder Sequeira",
+      "album": "Relaxamento",
+      "track": "Manhã calma"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Aaj Unse Pehli Mulaqat Hogi (From \"Paraya Dhan\")"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Kill All Your Friends - Live Demo"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Aanewala Pal Janewala Hai (From \"Golmaal\")"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Chala Jata Hoon (From \"Mere Jeevan Saathi\")"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Wolves",
+      "track": "Wolves"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Songs About Jane: 10th Anniversary Edition",
+      "track": "This Love"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Whiskey (feat. A$AP Rocky)"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Empty Wallets"
+    },
+    {
+      "artist": "Peter Cat Recording Co.",
+      "album": "Portrait of a Time: 2010-2016",
+      "track": "Portrait of a Time"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Moves Like Jagger - Live In Manchester"
+    },
+    {
+      "artist": "Little Mix",
+      "album": "Glory Days: The Platinum Edition",
+      "track": "Power"
+    },
+    {
+      "artist": "Vance Joy",
+      "album": "Dream Your Life Away",
+      "track": "Riptide"
+    },
+    {
+      "artist": "drkmnd",
+      "album": "Secret Jazz",
+      "track": "Secret Jazz"
+    },
+    {
+      "artist": "Virginia To Vegas",
+      "album": "Just Friends",
+      "track": "Just Friends"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "All The Stars (with SZA)",
+      "track": "All The Stars (with SZA)"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Disenchanted - Live Demo"
+    },
+    {
+      "artist": "Little Mix",
+      "album": "Glory Days: The Platinum Edition",
+      "track": "Shout Out to My Ex"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "I Can't Tell You Why - 2013 Remaster"
+    },
+    {
+      "artist": "Vance Joy",
+      "album": "Dream Your Life Away",
+      "track": "Georgia"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Witchy Woman - 2013 Remaster"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Dead!"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "The End."
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Maps - Live In Manchester"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "The Sad Cafe - 2013 Remaster"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Mama - Live Demo"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Night Visions",
+      "track": "Demons"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Overexposed",
+      "track": "One More Night"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Lips On You"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "The Sharpest Lives"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Emily - Rough Mix"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+      "track": "Blood - Hidden Track"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Babylon"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Visions"
+    },
+    {
+      "artist": "Oasis",
+      "album": "(What's The Story) Morning Glory?",
+      "track": "Wonderwall - Remastered"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "New Kid in Town - 2013 Remaster"
+    },
+    {
+      "artist": "Lata Mangeshkar",
+      "album": "Krazy Kishore",
+      "track": "Tere Mere Milan Ki Yeh Raina (From \"Abhimaan\")"
+    },
+    {
+      "artist": "George Ezra",
+      "album": "Wanted on Voyage",
+      "track": "Blame It on Me"
+    },
+    {
+      "artist": "Lynyrd Skynyrd",
+      "album": "Second Helping",
+      "track": "Sweet Home Alabama"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Wait"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Woke Up In Japan"
+    },
+    {
+      "artist": "Santana",
+      "album": "Ultimate Santana",
+      "track": "Europa (Earth's Cry Heaven's Smile)"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Peaceful Easy Feeling - 2013 Remaster"
+    },
+    {
+      "artist": "Lata Mangeshkar",
+      "album": "Krazy Kishore",
+      "track": "Dekha Ek Khwab, Pt. 2 (From \"Silsila\")"
+    },
+    {
+      "artist": "Niall Horan",
+      "album": "Flicker",
+      "track": "Seeing Blind"
+    },
+    {
+      "artist": "Don Omar",
+      "album": "Meet The Orphans",
+      "track": "Danza Kuduro"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "track": "Humen Tumse Pyar Kitna (From \"Kudrat\") - Male Vocals"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "track": "In Your Eyes"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits",
+      "track": "Doolin-Dalton - 2013 Remaster"
+    },
+    {
+      "artist": "Hélder Sequeira",
+      "album": "Relaxamento",
+      "track": "Vibração"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Relaxamento"
+    },
+    {
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore"
+    },
+    {
+      "artist": "Eagles",
+      "album": "The Complete Greatest Hits"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues"
+    },
+    {
+      "artist": "Cannons",
+      "album": "Shadows"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)"
+    }
+  ],
+  "shows": [
+    {
+      "name": "Data Viz Today",
+      "publisher": "Alli Torban"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "other": [
+  ]
+}

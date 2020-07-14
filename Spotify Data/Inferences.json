@@ -1,0 +1,32 @@
+{
+  "inferences": [
+    "1P_Custom_T-Mobile_Switchers",
+    "1P_Social Streamers_Broad",
+    "2P_Adobe_BTS Segment_07Jan2020_US",
+    "3P_Arts & Culture_FR",
+    "3P_Arts & Culture_UK",
+    "3P_Black Friday Shoppers_US",
+    "3P_Black Friday and Cyber Monday Shoppers_US",
+    "3P_Custom_Arts and Culture Enthusiasts_US",
+    "3P_Custom_Online Dating Users_FR",
+    "3P_Custom_SBO Not Self Employed_US",
+    "3P_Custom_Small Businesses Owners Interested In Online Delivery Services_US",
+    "3P_Cyber Monday Shoppers_US",
+    "3P_IT Professionals_US",
+    "3P_Last Minute Holiday Shoppers_US",
+    "3P_Small Business Owners/Decision Makers_AU",
+    "3P_Small Business Owners/Decision Makers_US",
+    "3P_Software Developer_US",
+    "3P_Winter Holiday Shoppers_US",
+    "Bootleggers_FreeUserEntity",
+    "Cookie Audience NOT Matched to PPIDs",
+    "Cookie_Synced_Audience_60D",
+    "Pop fans who haven’t heard Little Bit More",
+    "Pop fans who haven’t heard Whitney Woerz",
+    "Premiumbusiness_Free_Trial-Eligible",
+    "Spotify Cookie (sp_adid) Synced Audience",
+    "US_Noble People_Lightbox_Q2 Always On_Q2 2020_Lookalikes",
+    "[TEST] 3P_Custom_Parents of College Students_US",
+    "[Test] - 3P_Custom_Wells Fargo_Cross Pixel Intent Home Buyers_23Apr2020_US"
+  ]
+}
